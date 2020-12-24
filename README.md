@@ -68,5 +68,5 @@ The following APIs were used in the development of this assignment.
 ![ScheduleMe](https://user-images.githubusercontent.com/61035701/87250717-d9d24100-c434-11ea-95db-dadc55699b99.png)
 
 ## Deployed Application
-<a href="#">Schedule-Me</a>
+<a href="https://schedule-me-app.herokuapp.com/login">Schedule-Me</a>
 
